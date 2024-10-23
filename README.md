@@ -3,7 +3,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hakki ilginli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakki ilginli" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/hakk%C4%B1-ilginli-7315682a8/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakki ilginli" height="30" width="40" /></a>
 <a href="https://instagram.com/hakki_ilginli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakki_ilginli" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hakkı ılgınlı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hakkı ılgınlı" height="30" width="40" /></a>
 </p>
